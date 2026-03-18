@@ -1,4 +1,3 @@
-# app.py - Simple vulnerability demo app by userthek
 from flask import Flask
 import requests
 import numpy as np
